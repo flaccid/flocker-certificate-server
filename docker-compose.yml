@@ -1,0 +1,5 @@
+flocker-certificate-service:
+  image: flaccid/flocker-certificate-service:latest
+  volumes:
+  - flocker-data:/var/lib/flocker
+  net: host

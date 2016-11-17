@@ -1,0 +1,2 @@
+flocker-certificate-service:
+  scale: 1
